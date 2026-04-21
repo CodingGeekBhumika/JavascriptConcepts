@@ -1,5 +1,5 @@
 let fullname="Bhumika Gupta";
-let role ="Q A Lead";
+let role ="QA Lead";
 let experienceinYrs= 7;
 let skills=["Selenium", "Javascript","GenerativeAI"];
 let resume:
