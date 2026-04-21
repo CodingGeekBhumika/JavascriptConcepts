@@ -1,0 +1,14 @@
+Practice Challenge
+Write a function that takes any variable and returns a string describing its type more accurately than typeof:
+
+function sendTypeOfValue(value)
+{
+if (value===null)
+return "null";
+if (Array.isArray(value))
+retun "Array";
+return typeOf value;
+}
+console.log(value(123));
+console.log(value(null));
+console.log(value("Bhumika"));
