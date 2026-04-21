@@ -13,4 +13,4 @@ skills: skills
 console.log ("Name of the employee is" resume.name);
 console.log ("Role of the employee is" resume.role);
 console.log ("Experience of the employee is" resume.experience + "Years");
-console.log ("Skills of the employee are" resume.skills.join{,);
+console.log ("Skills of the employee are" resume.skills.join{",");
