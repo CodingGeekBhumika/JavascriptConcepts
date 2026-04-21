@@ -1,0 +1,16 @@
+let fullname="Bhumika Gupta";
+let role ="Q A Lead";
+let experienceinYrs= 7;
+let skills=["Selenium", "Javascript","GenerativeAI"];
+let resume:
+{
+name: fullname,
+role:role,
+experience : experienceinYrs,
+skills: skills
+};
+
+console.log ("Name of the employee is" resume.name);
+console.log ("Role of the employee is" resume.role);
+console.log ("Experience of the employee is" resume.experience + "Years");
+console.log ("Skills of the employee are" resume.skills.join{,);
