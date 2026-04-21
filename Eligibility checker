@@ -1,0 +1,5 @@
+let role "automation tester";
+let exp=7;
+let eleigibility=(role==="automation tester" && exp>5)
+? candidate is elegible
+: candidate is not elegible
